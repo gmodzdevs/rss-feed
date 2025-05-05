@@ -1,358 +1,358 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>Pitbulls Only Image Feed</title>
+    <ns0:link href="https://gmodzdevs.github.io/rss-feed/feed.xml" rel="self" type="application/rss+xml" /><title>Image Feed</title>
     <link>https://gmodzdevs.github.io/rss-feed/</link>
-    <description>RSS feed with only pitbull images</description>
+    <description>RSS feed with only images</description>
     
   <item>
     <title>Image 1</title>
     <link>https://gmodzdevs.github.io/rss-feed/images/img1.jpg</link>
     <guid>https://gmodzdevs.github.io/rss-feed/images/img1.jpg</guid>
-    <enclosure url="https://gmodzdevs.github.io/rss-feed/images/img1.jpg" length="12345" type="image/jpeg"/>
+    <enclosure url="https://gmodzdevs.github.io/rss-feed/images/img1.jpg" length="12345" type="image/jpeg" />
   </item>
 
   <item>
     <title>Image 2</title>
     <link>https://yourusername.github.io/your-repo-name/images/img2.png</link>
     <guid>https://yourusername.github.io/your-repo-name/images/img2.png</guid>
-    <enclosure url="https://yourusername.github.io/your-repo-name/images/img2.png" length="12345" type="image/png"/>
+    <enclosure url="https://yourusername.github.io/your-repo-name/images/img2.png" length="12345" type="image/png" />
   </item>
 
   <item>
     <title>Image 3</title>
     <link>https://yourusername.github.io/your-repo-name/images/img3.png</link>
     <guid>https://yourusername.github.io/your-repo-name/images/img3.png</guid>
-    <enclosure url="https://yourusername.github.io/your-repo-name/images/img3.png" length="12345" type="image/png"/>
+    <enclosure url="https://yourusername.github.io/your-repo-name/images/img3.png" length="12345" type="image/png" />
   </item>
 
   <item>
     <title>Image 4</title>
     <link>https://yourusername.github.io/your-repo-name/images/img4.png</link>
     <guid>https://yourusername.github.io/your-repo-name/images/img4.png</guid>
-    <enclosure url="https://yourusername.github.io/your-repo-name/images/img4.png" length="12345" type="image/png"/>
+    <enclosure url="https://yourusername.github.io/your-repo-name/images/img4.png" length="12345" type="image/png" />
   </item>
 
   <item>
     <title>Image 5</title>
     <link>https://yourusername.github.io/your-repo-name/images/img5.png</link>
     <guid>https://yourusername.github.io/your-repo-name/images/img5.png</guid>
-    <enclosure url="https://yourusername.github.io/your-repo-name/images/img5.png" length="12345" type="image/png"/>
+    <enclosure url="https://yourusername.github.io/your-repo-name/images/img5.png" length="12345" type="image/png" />
   </item>
 
   <item>
     <title>Image 6</title>
     <link>https://yourusername.github.io/your-repo-name/images/img6.png</link>
     <guid>https://yourusername.github.io/your-repo-name/images/img6.png</guid>
-    <enclosure url="https://yourusername.github.io/your-repo-name/images/img6.png" length="12345" type="image/png"/>
+    <enclosure url="https://yourusername.github.io/your-repo-name/images/img6.png" length="12345" type="image/png" />
   </item>
 
   <item>
     <title>Image 7</title>
     <link>https://yourusername.github.io/your-repo-name/images/img7.png</link>
     <guid>https://yourusername.github.io/your-repo-name/images/img7.png</guid>
-    <enclosure url="https://yourusername.github.io/your-repo-name/images/img7.png" length="12345" type="image/png"/>
+    <enclosure url="https://yourusername.github.io/your-repo-name/images/img7.png" length="12345" type="image/png" />
   </item>
 
   <item>
     <title>Image 8</title>
     <link>https://yourusername.github.io/your-repo-name/images/img8.png</link>
     <guid>https://yourusername.github.io/your-repo-name/images/img8.png</guid>
-    <enclosure url="https://yourusername.github.io/your-repo-name/images/img8.png" length="12345" type="image/png"/>
+    <enclosure url="https://yourusername.github.io/your-repo-name/images/img8.png" length="12345" type="image/png" />
   </item>
 
   <item>
     <title>Image 9</title>
     <link>https://yourusername.github.io/your-repo-name/images/img9.png</link>
     <guid>https://yourusername.github.io/your-repo-name/images/img9.png</guid>
-    <enclosure url="https://yourusername.github.io/your-repo-name/images/img9.png" length="12345" type="image/png"/>
+    <enclosure url="https://yourusername.github.io/your-repo-name/images/img9.png" length="12345" type="image/png" />
   </item>
 
   <item>
     <title>Image 10</title>
     <link>https://yourusername.github.io/your-repo-name/images/img10.png</link>
     <guid>https://yourusername.github.io/your-repo-name/images/img10.png</guid>
-    <enclosure url="https://yourusername.github.io/your-repo-name/images/img10.png" length="12345" type="image/png"/>
+    <enclosure url="https://yourusername.github.io/your-repo-name/images/img10.png" length="12345" type="image/png" />
   </item>
 
   <item>
     <title>Image 11</title>
     <link>https://yourusername.github.io/your-repo-name/images/img11.png</link>
     <guid>https://yourusername.github.io/your-repo-name/images/img11.png</guid>
-    <enclosure url="https://yourusername.github.io/your-repo-name/images/img11.png" length="12345" type="image/png"/>
+    <enclosure url="https://yourusername.github.io/your-repo-name/images/img11.png" length="12345" type="image/png" />
   </item>
 
   <item>
     <title>Image 12</title>
     <link>https://yourusername.github.io/your-repo-name/images/img12.png</link>
     <guid>https://yourusername.github.io/your-repo-name/images/img12.png</guid>
-    <enclosure url="https://yourusername.github.io/your-repo-name/images/img12.png" length="12345" type="image/png"/>
+    <enclosure url="https://yourusername.github.io/your-repo-name/images/img12.png" length="12345" type="image/png" />
   </item>
 
   <item>
     <title>Image 13</title>
     <link>https://yourusername.github.io/your-repo-name/images/img13.png</link>
     <guid>https://yourusername.github.io/your-repo-name/images/img13.png</guid>
-    <enclosure url="https://yourusername.github.io/your-repo-name/images/img13.png" length="12345" type="image/png"/>
+    <enclosure url="https://yourusername.github.io/your-repo-name/images/img13.png" length="12345" type="image/png" />
   </item>
 
   <item>
     <title>Image 14</title>
     <link>https://yourusername.github.io/your-repo-name/images/img14.png</link>
     <guid>https://yourusername.github.io/your-repo-name/images/img14.png</guid>
-    <enclosure url="https://yourusername.github.io/your-repo-name/images/img14.png" length="12345" type="image/png"/>
+    <enclosure url="https://yourusername.github.io/your-repo-name/images/img14.png" length="12345" type="image/png" />
   </item>
 
   <item>
     <title>Image 15</title>
     <link>https://yourusername.github.io/your-repo-name/images/img15.png</link>
     <guid>https://yourusername.github.io/your-repo-name/images/img15.png</guid>
-    <enclosure url="https://yourusername.github.io/your-repo-name/images/img15.png" length="12345" type="image/png"/>
+    <enclosure url="https://yourusername.github.io/your-repo-name/images/img15.png" length="12345" type="image/png" />
   </item>
 
   <item>
     <title>Image 16</title>
     <link>https://yourusername.github.io/your-repo-name/images/img16.png</link>
     <guid>https://yourusername.github.io/your-repo-name/images/img16.png</guid>
-    <enclosure url="https://yourusername.github.io/your-repo-name/images/img16.png" length="12345" type="image/png"/>
+    <enclosure url="https://yourusername.github.io/your-repo-name/images/img16.png" length="12345" type="image/png" />
   </item>
 
   <item>
     <title>Image 17</title>
     <link>https://yourusername.github.io/your-repo-name/images/img17.png</link>
     <guid>https://yourusername.github.io/your-repo-name/images/img17.png</guid>
-    <enclosure url="https://yourusername.github.io/your-repo-name/images/img17.png" length="12345" type="image/png"/>
+    <enclosure url="https://yourusername.github.io/your-repo-name/images/img17.png" length="12345" type="image/png" />
   </item>
 
   <item>
     <title>Image 18</title>
     <link>https://yourusername.github.io/your-repo-name/images/img18.png</link>
     <guid>https://yourusername.github.io/your-repo-name/images/img18.png</guid>
-    <enclosure url="https://yourusername.github.io/your-repo-name/images/img18.png" length="12345" type="image/png"/>
+    <enclosure url="https://yourusername.github.io/your-repo-name/images/img18.png" length="12345" type="image/png" />
   </item>
 
   <item>
     <title>Image 19</title>
     <link>https://yourusername.github.io/your-repo-name/images/img19.png</link>
     <guid>https://yourusername.github.io/your-repo-name/images/img19.png</guid>
-    <enclosure url="https://yourusername.github.io/your-repo-name/images/img19.png" length="12345" type="image/png"/>
+    <enclosure url="https://yourusername.github.io/your-repo-name/images/img19.png" length="12345" type="image/png" />
   </item>
 
   <item>
     <title>Image 20</title>
     <link>https://yourusername.github.io/your-repo-name/images/img20.png</link>
     <guid>https://yourusername.github.io/your-repo-name/images/img20.png</guid>
-    <enclosure url="https://yourusername.github.io/your-repo-name/images/img20.png" length="12345" type="image/png"/>
+    <enclosure url="https://yourusername.github.io/your-repo-name/images/img20.png" length="12345" type="image/png" />
   </item>
 
   <item>
     <title>Image 21</title>
     <link>https://yourusername.github.io/your-repo-name/images/img21.png</link>
     <guid>https://yourusername.github.io/your-repo-name/images/img21.png</guid>
-    <enclosure url="https://yourusername.github.io/your-repo-name/images/img21.png" length="12345" type="image/png"/>
+    <enclosure url="https://yourusername.github.io/your-repo-name/images/img21.png" length="12345" type="image/png" />
   </item>
 
   <item>
     <title>Image 22</title>
     <link>https://yourusername.github.io/your-repo-name/images/img22.png</link>
     <guid>https://yourusername.github.io/your-repo-name/images/img22.png</guid>
-    <enclosure url="https://yourusername.github.io/your-repo-name/images/img22.png" length="12345" type="image/png"/>
+    <enclosure url="https://yourusername.github.io/your-repo-name/images/img22.png" length="12345" type="image/png" />
   </item>
 
   <item>
     <title>Image 23</title>
     <link>https://yourusername.github.io/your-repo-name/images/img23.png</link>
     <guid>https://yourusername.github.io/your-repo-name/images/img23.png</guid>
-    <enclosure url="https://yourusername.github.io/your-repo-name/images/img23.png" length="12345" type="image/png"/>
+    <enclosure url="https://yourusername.github.io/your-repo-name/images/img23.png" length="12345" type="image/png" />
   </item>
 
   <item>
     <title>Image 24</title>
     <link>https://yourusername.github.io/your-repo-name/images/img24.png</link>
     <guid>https://yourusername.github.io/your-repo-name/images/img24.png</guid>
-    <enclosure url="https://yourusername.github.io/your-repo-name/images/img24.png" length="12345" type="image/png"/>
+    <enclosure url="https://yourusername.github.io/your-repo-name/images/img24.png" length="12345" type="image/png" />
   </item>
 
   <item>
     <title>Image 25</title>
     <link>https://yourusername.github.io/your-repo-name/images/img25.png</link>
     <guid>https://yourusername.github.io/your-repo-name/images/img25.png</guid>
-    <enclosure url="https://yourusername.github.io/your-repo-name/images/img25.png" length="12345" type="image/png"/>
+    <enclosure url="https://yourusername.github.io/your-repo-name/images/img25.png" length="12345" type="image/png" />
   </item>
 
   <item>
     <title>Image 26</title>
     <link>https://yourusername.github.io/your-repo-name/images/img26.jpg</link>
     <guid>https://yourusername.github.io/your-repo-name/images/img26.jpg</guid>
-    <enclosure url="https://yourusername.github.io/your-repo-name/images/img26.jpg" length="12345" type="image/jpeg"/>
+    <enclosure url="https://yourusername.github.io/your-repo-name/images/img26.jpg" length="12345" type="image/jpeg" />
   </item>
 
   <item>
     <title>Image 27</title>
     <link>https://yourusername.github.io/your-repo-name/images/img27.jpg</link>
     <guid>https://yourusername.github.io/your-repo-name/images/img27.jpg</guid>
-    <enclosure url="https://yourusername.github.io/your-repo-name/images/img27.jpg" length="12345" type="image/jpeg"/>
+    <enclosure url="https://yourusername.github.io/your-repo-name/images/img27.jpg" length="12345" type="image/jpeg" />
   </item>
 
   <item>
     <title>Image 28</title>
     <link>https://yourusername.github.io/your-repo-name/images/img28.jpg</link>
     <guid>https://yourusername.github.io/your-repo-name/images/img28.jpg</guid>
-    <enclosure url="https://yourusername.github.io/your-repo-name/images/img28.jpg" length="12345" type="image/jpeg"/>
+    <enclosure url="https://yourusername.github.io/your-repo-name/images/img28.jpg" length="12345" type="image/jpeg" />
   </item>
 
   <item>
     <title>Image 29</title>
     <link>https://yourusername.github.io/your-repo-name/images/img29.jpg</link>
     <guid>https://yourusername.github.io/your-repo-name/images/img29.jpg</guid>
-    <enclosure url="https://yourusername.github.io/your-repo-name/images/img29.jpg" length="12345" type="image/jpeg"/>
+    <enclosure url="https://yourusername.github.io/your-repo-name/images/img29.jpg" length="12345" type="image/jpeg" />
   </item>
 
   <item>
     <title>Image 30</title>
     <link>https://yourusername.github.io/your-repo-name/images/img30.jpg</link>
     <guid>https://yourusername.github.io/your-repo-name/images/img30.jpg</guid>
-    <enclosure url="https://yourusername.github.io/your-repo-name/images/img30.jpg" length="12345" type="image/jpeg"/>
+    <enclosure url="https://yourusername.github.io/your-repo-name/images/img30.jpg" length="12345" type="image/jpeg" />
   </item>
 
   <item>
     <title>Image 31</title>
     <link>https://yourusername.github.io/your-repo-name/images/img31.jpg</link>
     <guid>https://yourusername.github.io/your-repo-name/images/img31.jpg</guid>
-    <enclosure url="https://yourusername.github.io/your-repo-name/images/img31.jpg" length="12345" type="image/jpeg"/>
+    <enclosure url="https://yourusername.github.io/your-repo-name/images/img31.jpg" length="12345" type="image/jpeg" />
   </item>
 
   <item>
     <title>Image 32</title>
     <link>https://yourusername.github.io/your-repo-name/images/img32.jpg</link>
     <guid>https://yourusername.github.io/your-repo-name/images/img32.jpg</guid>
-    <enclosure url="https://yourusername.github.io/your-repo-name/images/img32.jpg" length="12345" type="image/jpeg"/>
+    <enclosure url="https://yourusername.github.io/your-repo-name/images/img32.jpg" length="12345" type="image/jpeg" />
   </item>
 
   <item>
     <title>Image 33</title>
     <link>https://yourusername.github.io/your-repo-name/images/img33.jpg</link>
     <guid>https://yourusername.github.io/your-repo-name/images/img33.jpg</guid>
-    <enclosure url="https://yourusername.github.io/your-repo-name/images/img33.jpg" length="12345" type="image/jpeg"/>
+    <enclosure url="https://yourusername.github.io/your-repo-name/images/img33.jpg" length="12345" type="image/jpeg" />
   </item>
 
   <item>
     <title>Image 34</title>
     <link>https://yourusername.github.io/your-repo-name/images/img34.jpg</link>
     <guid>https://yourusername.github.io/your-repo-name/images/img34.jpg</guid>
-    <enclosure url="https://yourusername.github.io/your-repo-name/images/img34.jpg" length="12345" type="image/jpeg"/>
+    <enclosure url="https://yourusername.github.io/your-repo-name/images/img34.jpg" length="12345" type="image/jpeg" />
   </item>
 
   <item>
     <title>Image 35</title>
     <link>https://yourusername.github.io/your-repo-name/images/img35.jpg</link>
     <guid>https://yourusername.github.io/your-repo-name/images/img35.jpg</guid>
-    <enclosure url="https://yourusername.github.io/your-repo-name/images/img35.jpg" length="12345" type="image/jpeg"/>
+    <enclosure url="https://yourusername.github.io/your-repo-name/images/img35.jpg" length="12345" type="image/jpeg" />
   </item>
 
   <item>
     <title>Image 36</title>
     <link>https://yourusername.github.io/your-repo-name/images/img36.jpg</link>
     <guid>https://yourusername.github.io/your-repo-name/images/img36.jpg</guid>
-    <enclosure url="https://yourusername.github.io/your-repo-name/images/img36.jpg" length="12345" type="image/jpeg"/>
+    <enclosure url="https://yourusername.github.io/your-repo-name/images/img36.jpg" length="12345" type="image/jpeg" />
   </item>
 
   <item>
     <title>Image 37</title>
     <link>https://yourusername.github.io/your-repo-name/images/img37.jpg</link>
     <guid>https://yourusername.github.io/your-repo-name/images/img37.jpg</guid>
-    <enclosure url="https://yourusername.github.io/your-repo-name/images/img37.jpg" length="12345" type="image/jpeg"/>
+    <enclosure url="https://yourusername.github.io/your-repo-name/images/img37.jpg" length="12345" type="image/jpeg" />
   </item>
 
   <item>
     <title>Image 38</title>
     <link>https://yourusername.github.io/your-repo-name/images/img38.jpg</link>
     <guid>https://yourusername.github.io/your-repo-name/images/img38.jpg</guid>
-    <enclosure url="https://yourusername.github.io/your-repo-name/images/img38.jpg" length="12345" type="image/jpeg"/>
+    <enclosure url="https://yourusername.github.io/your-repo-name/images/img38.jpg" length="12345" type="image/jpeg" />
   </item>
 
   <item>
     <title>Image 39</title>
     <link>https://yourusername.github.io/your-repo-name/images/img39.jpg</link>
     <guid>https://yourusername.github.io/your-repo-name/images/img39.jpg</guid>
-    <enclosure url="https://yourusername.github.io/your-repo-name/images/img39.jpg" length="12345" type="image/jpeg"/>
+    <enclosure url="https://yourusername.github.io/your-repo-name/images/img39.jpg" length="12345" type="image/jpeg" />
   </item>
 
   <item>
     <title>Image 40</title>
     <link>https://yourusername.github.io/your-repo-name/images/img40.jpg</link>
     <guid>https://yourusername.github.io/your-repo-name/images/img40.jpg</guid>
-    <enclosure url="https://yourusername.github.io/your-repo-name/images/img40.jpg" length="12345" type="image/jpeg"/>
+    <enclosure url="https://yourusername.github.io/your-repo-name/images/img40.jpg" length="12345" type="image/jpeg" />
   </item>
 
   <item>
     <title>Image 41</title>
     <link>https://yourusername.github.io/your-repo-name/images/img41.jpg</link>
     <guid>https://yourusername.github.io/your-repo-name/images/img41.jpg</guid>
-    <enclosure url="https://yourusername.github.io/your-repo-name/images/img41.jpg" length="12345" type="image/jpeg"/>
+    <enclosure url="https://yourusername.github.io/your-repo-name/images/img41.jpg" length="12345" type="image/jpeg" />
   </item>
 
   <item>
     <title>Image 42</title>
     <link>https://yourusername.github.io/your-repo-name/images/img42.jpg</link>
     <guid>https://yourusername.github.io/your-repo-name/images/img42.jpg</guid>
-    <enclosure url="https://yourusername.github.io/your-repo-name/images/img42.jpg" length="12345" type="image/jpeg"/>
+    <enclosure url="https://yourusername.github.io/your-repo-name/images/img42.jpg" length="12345" type="image/jpeg" />
   </item>
 
   <item>
     <title>Image 43</title>
     <link>https://yourusername.github.io/your-repo-name/images/img43.jpg</link>
     <guid>https://yourusername.github.io/your-repo-name/images/img43.jpg</guid>
-    <enclosure url="https://yourusername.github.io/your-repo-name/images/img43.jpg" length="12345" type="image/jpeg"/>
+    <enclosure url="https://yourusername.github.io/your-repo-name/images/img43.jpg" length="12345" type="image/jpeg" />
   </item>
 
   <item>
     <title>Image 44</title>
     <link>https://yourusername.github.io/your-repo-name/images/img44.jpg</link>
     <guid>https://yourusername.github.io/your-repo-name/images/img44.jpg</guid>
-    <enclosure url="https://yourusername.github.io/your-repo-name/images/img44.jpg" length="12345" type="image/jpeg"/>
+    <enclosure url="https://yourusername.github.io/your-repo-name/images/img44.jpg" length="12345" type="image/jpeg" />
   </item>
 
   <item>
     <title>Image 45</title>
     <link>https://yourusername.github.io/your-repo-name/images/img45.jpg</link>
     <guid>https://yourusername.github.io/your-repo-name/images/img45.jpg</guid>
-    <enclosure url="https://yourusername.github.io/your-repo-name/images/img45.jpg" length="12345" type="image/jpeg"/>
+    <enclosure url="https://yourusername.github.io/your-repo-name/images/img45.jpg" length="12345" type="image/jpeg" />
   </item>
 
   <item>
     <title>Image 46</title>
     <link>https://yourusername.github.io/your-repo-name/images/img46.jpg</link>
     <guid>https://yourusername.github.io/your-repo-name/images/img46.jpg</guid>
-    <enclosure url="https://yourusername.github.io/your-repo-name/images/img46.jpg" length="12345" type="image/jpeg"/>
+    <enclosure url="https://yourusername.github.io/your-repo-name/images/img46.jpg" length="12345" type="image/jpeg" />
   </item>
 
   <item>
     <title>Image 47</title>
     <link>https://yourusername.github.io/your-repo-name/images/img47.jpg</link>
     <guid>https://yourusername.github.io/your-repo-name/images/img47.jpg</guid>
-    <enclosure url="https://yourusername.github.io/your-repo-name/images/img47.jpg" length="12345" type="image/jpeg"/>
+    <enclosure url="https://yourusername.github.io/your-repo-name/images/img47.jpg" length="12345" type="image/jpeg" />
   </item>
 
   <item>
     <title>Image 48</title>
     <link>https://yourusername.github.io/your-repo-name/images/img48.jpg</link>
     <guid>https://yourusername.github.io/your-repo-name/images/img48.jpg</guid>
-    <enclosure url="https://yourusername.github.io/your-repo-name/images/img48.jpg" length="12345" type="image/jpeg"/>
+    <enclosure url="https://yourusername.github.io/your-repo-name/images/img48.jpg" length="12345" type="image/jpeg" />
   </item>
 
   <item>
     <title>Image 49</title>
     <link>https://yourusername.github.io/your-repo-name/images/img49.jpg</link>
     <guid>https://yourusername.github.io/your-repo-name/images/img49.jpg</guid>
-    <enclosure url="https://yourusername.github.io/your-repo-name/images/img49.jpg" length="12345" type="image/jpeg"/>
+    <enclosure url="https://yourusername.github.io/your-repo-name/images/img49.jpg" length="12345" type="image/jpeg" />
   </item>
 
   <item>
     <title>Image 50</title>
     <link>https://yourusername.github.io/your-repo-name/images/img50.jpg</link>
     <guid>https://yourusername.github.io/your-repo-name/images/img50.jpg</guid>
-    <enclosure url="https://yourusername.github.io/your-repo-name/images/img50.jpg" length="12345" type="image/jpeg"/>
+    <enclosure url="https://yourusername.github.io/your-repo-name/images/img50.jpg" length="12345" type="image/jpeg" />
   </item>
   </channel>
 </rss>
