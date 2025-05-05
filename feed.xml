@@ -7,9 +7,9 @@
     
   <item>
     <title>Image 1</title>
-    <link>https://github.com/gmodzdevs/rss-feed/blob/main/images/img1.jpg</link>
-    <guid>https://github.com/gmodzdevs/rss-feed/blob/main/images/img1.jpg</guid>
-    <enclosure url="https://github.com/gmodzdevs/rss-feed/blob/main/images/img1.jpg" length="12345" type="image/jpeg"/>
+    <link>https://gmodzdevs.github.io/rss-feed/images/img1.jpg</link>
+    <guid>https://gmodzdevs.github.io/rss-feed/images/img1.jpg</guid>
+    <enclosure url="https://gmodzdevs.github.io/rss-feed/images/img1.jpg" length="12345" type="image/jpeg"/>
   </item>
 
   <item>
