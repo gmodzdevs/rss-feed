@@ -9,7 +9,7 @@
     <title>Image 1</title>
     <link>https://gmodzdevs.github.io/rss-feed/img1.jpg</link>
     <guid>https://gmodzdevs.github.io/rss-feed/img1.jpg</guid>
-    <enclosure url="https://yourusername.github.io/your-repo-name/images/img1.png" length="12345" type="image/png"/>
+    <enclosure url="https://gmodzdevs.github.io/rss-feed/images/img1.jpg" length="12345" type="image/jpeg"/>
   </item>
 
   <item>
