@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
   <channel>
-    <title>Image Feed</title>
+    <title>Pitbulls Only Image Feed</title>
     <link>https://gmodzdevs.github.io/rss-feed/</link>
-    <description>RSS feed with only images</description>
+    <description>RSS feed with only pitbull images</description>
     
   <item>
     <title>Image 1</title>
