@@ -2,13 +2,13 @@
 <rss version="2.0">
   <channel>
     <title>Image Feed</title>
-    <link>http://192.168.5.35:8080/</link>
+    <link>https://gmodzdevs.github.io/rss-feed/</link>
     <description>RSS feed with only images</description>
     
   <item>
     <title>Image 1</title>
-    <link>http://192.168.5.35:8080/images/img1.jpg</link>
-    <guid>http://192.168.5.35:8080/images/img1.jpg</guid>
+    <link>https://gmodzdevs.github.io/rss-feed/img1.jpg</link>
+    <guid>https://gmodzdevs.github.io/rss-feed/img1.jpg</guid>
     <enclosure url="https://yourusername.github.io/your-repo-name/images/img1.png" length="12345" type="image/png"/>
   </item>
 
