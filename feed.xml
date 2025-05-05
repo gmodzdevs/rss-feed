@@ -2,12 +2,12 @@
 <rss version="2.0">
   <channel>
     <title>Pitbulls Only Image Feed</title>
-    <link>https://github.com/gmodzdevs/rss-feed/blob/main/</link>
+    <link>https://gmodzdevs.github.io/rss-feed/</link>
     <description>RSS feed with only pitbull images</description>
     
   <item>
     <title>Image 1</title>
-    <link>https://gmodzdevs.github.io/rss-feed/images/img1.jpg</link>
+    <link>https://github.com/gmodzdevs/rss-feed/blob/main/images/img1.jpg</link>
     <guid>https://github.com/gmodzdevs/rss-feed/blob/main/images/img1.jpg</guid>
     <enclosure url="https://github.com/gmodzdevs/rss-feed/blob/main/images/img1.jpg" length="12345" type="image/jpeg"/>
   </item>
